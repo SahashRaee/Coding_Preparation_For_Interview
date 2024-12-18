@@ -23,38 +23,38 @@
 | 7. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅| |
 | 8. [Revising Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | ✅ | |
 | 9. [Revising Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | ✅ ||
-| 10. [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select.PNG) |
-| 11. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select%20I.PNG) |
-| 12. [Sqrt](https://leetcode.com/problems/sqrtx/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sqrt.PNG) |
-| 13. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Sorted%20Array.PNG) |
-| 14. [Majority Element](https://leetcode.com/problems/majority-element/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Majority%20Element.PNG) |
-| 15. [First Unique Character in String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20Character.PNG) |
-| 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Climbing%20Stairs.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Climbing%20N.png) |
-| 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Japanese%20Cities.PNG) |
-| 18. [Plus One](https://leetcode.com/problems/plus-one/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Plus%20One.PNG) |
-| 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Contains%20Duplicate.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Duplicates%20N.png) |
-| 20. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pascals%20Triangle.PNG) |
-| 21. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Delete%20Node.PNG) |
-| 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Parentheses.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/ValidN.png) |
-| 23. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Sorted%20Lists.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Linked.PNG) |
-| 24. [Valid Palindrome](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome.PNG) | ✅✅ | [Python](https://leetcode.com/problems/valid-palindrome/submissions/) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome%20N.png) |
-| 25. [Japanese Cities Names II](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select%20II.PNG) |
-| 26. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Maximum%20Depth.PNG) |
-| 27. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sorted%20Array.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Convert%20Sorted%20Array.PNG) |
-| 28. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | ✅✅| [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Maximum%20Subarray.PNG) |
-| 29. [Power of Three](https://leetcode.com/problems/power-of-three/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Power%20of%20Three.PNG) | 
-| 30. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet%20Column.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet.PNG) |
-| 31. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet%20ColumnI.PNG) |
-| 32. [Missing Number](https://leetcode.com/problems/missing-number/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Missing%20Number.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Missing%20Number%20Java.PNG) |
-| 33. [Single Number](https://leetcode.com/problems/single-number/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Single%20Number.PNG) |
-| 34. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | ✅✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Best%20Time%20To%20Buy.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/PricesN.png) |
-| 35. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Duplicates.PNG) |
-| 36. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Fizz%20Buzz.PNG) |
-| 37. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Anagram.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Anagram.png) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Anagram%20NN.png) |
-| 38. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree%20Inorder%20Traversal%20N.png) |
-| 39. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Symmetric%20Tree.PNG) |
-| 40. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Absolute.PNG) |
-| 41. [Power of Two](https://leetcode.com/problems/power-of-two/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Power%20of%20Two.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Power%20of%20Two%20Java.PNG) |
+| 10. [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | ✅| |
+| 11. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | ✅ ||
+| 12. [Sqrt](https://leetcode.com/problems/sqrtx/) | ✅ | |
+| 13. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | ✅ | |
+| 14. [Majority Element](https://leetcode.com/problems/majority-element/submissions/) | ✅ | |
+| 15. [First Unique Character in String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/) | ✅ | |
+| 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) | ✅ | |
+| 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅ | |
+| 18. [Plus One](https://leetcode.com/problems/plus-one/submissions/) | ✅ | |
+| 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) | ✅ | |
+| 20. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/) | ✅ | |
+| 21. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/) |  | |
+| 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) |  | |
+| 23. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | ||
+| 24. [Valid Palindrome](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome.PNG) |  | |
+| 25. [Japanese Cities Names II](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) |  | |
+| 26. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) |  | |
+| 27. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |  | |
+| 28. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | | 
+| 29. [Power of Three](https://leetcode.com/problems/power-of-three/submissions/) |  | | 
+| 30. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/submissions/) |  | |
+| 31. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/submissions/) |  | |
+| 32. [Missing Number](https://leetcode.com/problems/missing-number/submissions/) |  | |
+| 33. [Single Number](https://leetcode.com/problems/single-number/submissions/) |  | |
+| 34. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | ✅✅✅✅ ||
+| 35. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | ✅ | |
+| 36. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/submissions/) | ✅ | |
+| 37. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | ✅✅ | |
+| 38. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) | ✅✅ | |
+| 39. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) | ✅ | |
+| 40. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/submissions/) | ✅ ||
+| 41. [Power of Two](https://leetcode.com/problems/power-of-two/submissions/) | ✅✅ | |
 | 42. [Add Binary](https://leetcode.com/problems/add-binary/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Adding%20Binary.PNG) |
 | 43. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Intersection%20Node%20in%20SLI.PNG) |
 | 44. [Implement Str](https://leetcode.com/problems/implement-strstr/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Str.PNG) | 
