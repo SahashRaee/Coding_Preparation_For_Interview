@@ -74,17 +74,17 @@
 | 58. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/) | ✅✅ ||
 | 59. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/) | ✅✅ ||
 | 60. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ✅✅ | |
-| 61. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Average%20of%20Levels.PNG) |
-| 62. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Depth.PNG) | 
-| 63. [Same Tree](https://leetcode.com/problems/same-tree/submissions/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Same%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Same%20Tree%20P.png)|
-| 64. [Path Sum](https://leetcode.com/problems/path-sum/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Path%20Sum.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Path%20Sum%20N.PNG) |
-| 65. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Diameter%20of%20BT.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Diameter%20of%20BT%20P.PNG) |
-| 66. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Lowest%20Common%20Descendent.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Lowest%20Common%20Ancestor.PNG) | 
-| 67. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subtree%20of%20another%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subtree%20of%20Another%20Tree%20N.png) |
-| 68. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Backspace%20String.PNG) | 
-| 69. [Word Pattern](https://leetcode.com/problems/word-pattern/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Word%20Pattern.PNG) | 
-| 70. [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Triangle.PNG) |
-| 71. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Even%20Digits.PNG) |
+| 61. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | ✅ | |
+| 62. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | ✅ || 
+| 63. [Same Tree](https://leetcode.com/problems/same-tree/submissions/) | ✅✅| |
+| 64. [Path Sum](https://leetcode.com/problems/path-sum/submissions/) | ✅✅ | |
+| 65. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/) | ✅✅ ||
+| 66. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ✅✅ | | 
+| 67. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/submissions/) |  | |
+| 68. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/submissions/) | || 
+| 69. [Word Pattern](https://leetcode.com/problems/word-pattern/submissions/) | ✅ | | 
+| 70. [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) |  ||
+| 71. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ✅ | |
 | 72. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Wealth.PNG) | 
 | 73. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Smallest%20Letter.PNG) | 
 | 74. [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Set%20Mismatch.PNG) | 
