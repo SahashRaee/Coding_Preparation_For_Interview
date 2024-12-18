@@ -1,7 +1,7 @@
 # **MACHINE LEARNING INTERVIEW PREPARATION**
 
 
-![Image]()
+![Image](Assets/code.jpg)
 
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
