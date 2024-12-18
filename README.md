@@ -7,14 +7,14 @@
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
 
-**BOOKS**
+**BOOK**
 - **Data Structures & Algorithms in Python** -*Michael T. Goodrich*
-- **Deep Learning Interviews** -*Shlomo Kashani*
+
 
 **EASY QUESTIONS**
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
-| 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/2Sum.PNG) |
+| 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅✅✅✅ | |
 | 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Roman2Integer.PNG) |
 | 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/LCP.PNG) |
 | 4. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Intersection.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Intersection%20P.png) |
