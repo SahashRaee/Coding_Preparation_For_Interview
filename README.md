@@ -1,4 +1,4 @@
-# **MACHINE LEARNING INTERVIEW PREPARATION**
+# **CODING PREPARATION**
 
 
 ![Image](Assets/code.jpg)
