@@ -47,7 +47,7 @@
 | 31. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/submissions/) |  | |
 | 32. [Missing Number](https://leetcode.com/problems/missing-number/submissions/) |  | |
 | 33. [Single Number](https://leetcode.com/problems/single-number/submissions/) |  | |
-| 34. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | ✅✅✅✅ ||
+| 34. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | ✅ ||
 | 35. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | ✅ | |
 | 36. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/submissions/) | ✅ | |
 | 37. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | ✅✅ | |
@@ -55,25 +55,25 @@
 | 39. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) | ✅ | |
 | 40. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/submissions/) | ✅ ||
 | 41. [Power of Two](https://leetcode.com/problems/power-of-two/submissions/) | ✅✅ | |
-| 42. [Add Binary](https://leetcode.com/problems/add-binary/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Adding%20Binary.PNG) |
-| 43. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Intersection%20Node%20in%20SLI.PNG) |
-| 44. [Implement Str](https://leetcode.com/problems/implement-strstr/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Str.PNG) | 
-| 45. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20LinkedList.PNG) |
-| 46. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Invert%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Invert%20Tree%20N.PNG) |
-| 47. [First Bad Version](https://leetcode.com/problems/first-bad-version/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/First%20Bad%20Version.PNG) |
-| 48. [Add Strings](https://leetcode.com/problems/add-strings/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20Strings.PNG) |
-| 49. [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subarray.PNG) |
-| 50. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome%20II.PNG) | 
-| 51. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Email%20Addresses.PNG) |
-| 52. [Verifying Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Alien%20Dictionary.PNG) |
-| 53. [Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Squares%20of%20Sorted%20Array.PNG) | 
-| 54. [Remove All Adjacent Duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Adjacent.PNG) |
-| 55. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Linked%20List%20Cycle.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Cycle.PNG) | 
-| 56. [Find All Numbers Disappeared in Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Find%20Numbers.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Numbers%20Disappeared.PNG) | 
-| 57. [Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Range%20Sum.PNG) |
-| 58. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Palindrome%20Linked%20List.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Palindrom%20LLJ.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Palindrome%20LLJ.PNG) |
-| 59. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Duplicates%20List.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Duplicates%20List%20Java.PNG) |
-| 60. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Peak%20Index.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Peak%20Index%20Java.PNG) |
+| 42. [Add Binary](https://leetcode.com/problems/add-binary/submissions/) | ✅ | |
+| 43. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/) | ✅✅ | |
+| 44. [Implement Str](https://leetcode.com/problems/implement-strstr/) | ✅ | | 
+| 45. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/) | ✅✅ | |
+| 46. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/) | ✅✅✅ | |
+| 47. [First Bad Version](https://leetcode.com/problems/first-bad-version/) | ✅ | |
+| 48. [Add Strings](https://leetcode.com/problems/add-strings/submissions/) | ✅ | |
+| 49. [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/submissions/) | ✅ | |
+| 50. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/submissions/) | ✅ || 
+| 51. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/submissions/) | ✅ | |
+| 52. [Verifying Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/submissions/) | ✅ ||
+| 53. [Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/) | ✅✅ | | 
+| 54. [Remove All Adjacent Duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/) | ✅✅ | |
+| 55. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | ✅✅ | | 
+| 56. [Find All Numbers Disappeared in Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | ✅✅✅ || 
+| 57. [Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/submissions/) | ✅ | |
+| 58. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/) | ✅✅ ||
+| 59. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/) | ✅✅ ||
+| 60. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ✅✅ | |
 | 61. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Average%20of%20Levels.PNG) |
 | 62. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Depth.PNG) | 
 | 63. [Same Tree](https://leetcode.com/problems/same-tree/submissions/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Same%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Same%20Tree%20P.png)|
