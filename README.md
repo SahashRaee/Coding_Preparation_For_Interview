@@ -85,7 +85,7 @@
 | 69. [Word Pattern](https://leetcode.com/problems/word-pattern/submissions/) | ✅ | | 
 | 70. [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) |  ||
 | 71. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ✅ | |
-| 72. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Wealth.PNG) | 
+| 72. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/) | ✅ | | 
 | 73. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | ✅ | | 
 | 74. [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | ✅ | | 
 | 75. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | ✅ || 
