@@ -3,7 +3,7 @@
 
 ![Image](Assets/code.jpg)
 
-**RESOURCES**sss
+**RESOURCES**ssss
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
 
