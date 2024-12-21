@@ -86,54 +86,54 @@
 | 70. [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) |  ||
 | 71. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ✅ | |
 | 72. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Wealth.PNG) | 
-| 73. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Smallest%20Letter.PNG) | 
-| 74. [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Set%20Mismatch.PNG) | 
-| 75. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Flipping%20Image.PNG) | 
-| 76. [Number of Steps to Reduce Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reduce.PNG) | 
-| 77. [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Happy%20Number.PNG) | 
-| 78. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Linked%20List%20Middle.PNG) | 
-| 79. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Balanced%20Binary%20Tree.PNG) | 
-| 80. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Two%20Binary%20Trees.PNG) | 
-| 81. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/submissions/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combine%20Two%20Tables.PNG) | 
-| 82. [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ✅ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Employee%20Earning.PNG) |
-| 83. [Binary Search](https://leetcode.com/problems/binary-search/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Search.PNG) | 
-| 84. [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Stack%20Using%20Queue.PNG) |
-| 85. [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Shift%202D%20Grid.png) | 
-| 86. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |  | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pivot.png) | 
-| 87. [Big Countries](https://leetcode.com/problems/big-countries/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Big%20Countries.png) | 
-| 88. [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Recyclable.png) | 
-| 89. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/MinimumCost%20N.png) | 
+| 73. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | ✅ | | 
+| 74. [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | ✅ | | 
+| 75. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | ✅ || 
+| 76. [Number of Steps to Reduce Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | ✅ | | 
+| 77. [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ | | 
+| 78. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ✅ || 
+| 79. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/) | ✅ | | 
+| 80. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/) | ✅ || 
+| 81. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/submissions/) | ✅☮ | | 
+| 82. [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ✅ | |
+| 83. [Binary Search](https://leetcode.com/problems/binary-search/submissions/) | ✅ | | 
+| 84. [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | ✅ ||
+| 85. [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | ✅ | | 
+| 86. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |  | | 
+| 87. [Big Countries](https://leetcode.com/problems/big-countries/) | | | 
+| 88. [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) |  | | 
+| 89. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | ✅ || 
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
-| 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20Two%20Numbers.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20Two%20Numbers%20N.png) |
-| 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Substring.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Substring%20N.png) |
-| 3. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Letter%20Combinations.PNG) |
-| 4. [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Nth%20Node.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Nth%20Node%20N.PNG) | 
-| 5. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Divide.PNG) |
-| 6. [Next Permutation](https://leetcode.com/problems/next-permutation/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Next%20Permutation.PNG) | 
-| 7. [Find First and Last Position of Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/First%20and%20Last.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/First%20and%20Last%20Java.PNG) |
-| 8. [Combination Sum](https://leetcode.com/problems/combination-sum/submissions/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combination%20Sum.PNG) | 
-| 9. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combination%20Sum%20II.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combination%20Sum%20II%20N.PNG) |
-| 10. [Permutations](https://leetcode.com/problems/permutations/submissions/) | ✅✅ | [DFS](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Permutations.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Permutations%20P.PNG) |
-| 11. [Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Intervals.PNG) |
-| 12. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20Paths%20II.PNG) | 
-| 13. [Simplify Path](https://leetcode.com/problems/simplify-path/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Simplify%20Path.PNG) |
-| 14. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree.PNG) |
-| 15. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree%20Level%20Order.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Level%20Order%20Traversal.PNG) |
-| 16. [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Construct%20Binary%20Tree.PNG) |
-| 17. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Populating%20Next%20Right.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.PNG) | 
-| 18. [Clone Graph](https://leetcode.com/problems/clone-graph/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Clone%20Graph.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Clone%20Graphh.PNG) | 
-| 19. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Copy%20List.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Copy%20List%20with%20Random%20Pointer%20N.PNG)|
-| 20. [Word Break](https://leetcode.com/problems/word-break/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Word%20Break.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/WordBreakN.png) |
-| 21. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20in%20Rotated.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/MinimumSortedArray.png) |
-| 22. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Search%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Search%20Tree%20Iterator%20N.png) | 
-| 23. [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Rotate%20Array.PNG) |
-| 24. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Right%20Node.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree%20Right%20Side.PNG) | 
-| 25. [Course Schedule](https://leetcode.com/problems/course-schedule/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Course%20Schedule.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Course%20Schedule%20N.png) |
-| 26. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Course%20Schedule%20II.PNG) |
-| 27. [Design Add and Search Words DS](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Design%20Add%20and%20Search.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20%26%20Search.png) | 
+| 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ||
+| 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅✅ | |
+| 3. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ✅ | |
+| 4. [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | || 
+| 5. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/submissions/) | | |
+| 6. [Next Permutation](https://leetcode.com/problems/next-permutation/submissions/) | ✅ | | 
+| 7. [Find First and Last Position of Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) |  | |
+| 8. [Combination Sum](https://leetcode.com/problems/combination-sum/submissions/) | | | 
+| 9. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) |  | |
+| 10. [Permutations](https://leetcode.com/problems/permutations/submissions/) |  | |
+| 11. [Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/) |  ||
+| 12. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/) |  | | 
+| 13. [Simplify Path](https://leetcode.com/problems/simplify-path/submissions/) | ✅ | |
+| 14. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) |  ||
+| 15. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ✅ | |
+| 16. [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ✅ ||
+| 17. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | ✅| | 
+| 18. [Clone Graph](https://leetcode.com/problems/clone-graph/submissions/) | ✅| | 
+| 19. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ✅✅ |
+| 20. [Word Break](https://leetcode.com/problems/word-break/) | ✅ | |
+| 21. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅✅ | |
+| 22. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | ✅✅| | 
+| 23. [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ | |
+| 24. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅✅| | 
+| 25. [Course Schedule](https://leetcode.com/problems/course-schedule/submissions/) | ✅ | |
+| 26. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/submissions/) | ✅ | |
+| 27. [Design Add and Search Words DS](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |  || 
 | 28. [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/String%20to%20Integer.PNG) | 
 | 29. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Kth%20Largest%20Element.PNG) | 
 | 30. [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/The%20Pads.PNG) | 
