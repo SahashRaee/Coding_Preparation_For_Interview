@@ -50,8 +50,8 @@
 | 34. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | ✅ ||
 | 35. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | ✅ | |
 | 36. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/submissions/) | ✅ | |
-| 37. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | ✅✅ | |
-| 38. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) | ✅✅ | |
+| 37. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) |  | |
+| 38. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) | | |
 | 39. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) | ✅ | |
 | 40. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/submissions/) | ✅ ||
 | 41. [Power of Two](https://leetcode.com/problems/power-of-two/submissions/) | ✅✅ | |
@@ -125,17 +125,17 @@
 | 16. [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ✅ ||
 | 17. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | ✅| | 
 | 18. [Clone Graph](https://leetcode.com/problems/clone-graph/submissions/) | ✅| | 
-| 19. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ✅✅ |
-| 20. [Word Break](https://leetcode.com/problems/word-break/) | ✅ | |
-| 21. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅✅ | |
-| 22. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | ✅✅| | 
-| 23. [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ | |
-| 24. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅✅| | 
-| 25. [Course Schedule](https://leetcode.com/problems/course-schedule/submissions/) | ✅ | |
-| 26. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/submissions/) | ✅ | |
+| 19. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | |
+| 20. [Word Break](https://leetcode.com/problems/word-break/) | | |
+| 21. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | | |
+| 22. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | | | 
+| 23. [Rotate Array](https://leetcode.com/problems/rotate-array/) | | |
+| 24. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | | 
+| 25. [Course Schedule](https://leetcode.com/problems/course-schedule/submissions/) |  | |
+| 26. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/submissions/) |  | |
 | 27. [Design Add and Search Words DS](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |  || 
-| 28. [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/String%20to%20Integer.PNG) | 
-| 29. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Kth%20Largest%20Element.PNG) | 
+| 28. [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/submissions/) |  | | 
+| 29. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |  | | 
 | 30. [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) |  || 
 | 31. [Basic Calculator](https://leetcode.com/problems/basic-calculator-ii/submissions/) | ✅ | | 
 | 32. [Lowest Common Ancestor of Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ✅ | | 
