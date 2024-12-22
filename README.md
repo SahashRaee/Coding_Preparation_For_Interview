@@ -86,15 +86,15 @@
 | 70. [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) |  ||
 | 71. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ✅ | |
 | 72. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/) | ✅ | | 
-| 73. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | ✅ | | 
-| 74. [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | ✅ | | 
-| 75. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | ✅ || 
-| 76. [Number of Steps to Reduce Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | ✅ | | 
-| 77. [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ | | 
-| 78. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ✅ || 
-| 79. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/) | ✅ | | 
-| 80. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/) | ✅ || 
-| 81. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/submissions/) | ✅☮ | | 
+| 73. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | | | 
+| 74. [Set Mismatch](https://leetcode.com/problems/set-mismatch/) |  | | 
+| 75. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |  || 
+| 76. [Number of Steps to Reduce Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | | | 
+| 77. [Happy Number](https://leetcode.com/problems/happy-number/) |  | | 
+| 78. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |  || 
+| 79. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/) | | | 
+| 80. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/) | || 
+| 81. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/submissions/) |  | | 
 | 82. [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ✅ | |
 | 83. [Binary Search](https://leetcode.com/problems/binary-search/submissions/) | ✅ | | 
 | 84. [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | ✅ ||
