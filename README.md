@@ -8,7 +8,7 @@
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
 
 **BOOK**
-- **Data Structures & Algorithms in Python** -*Michael T. Goodrich*ss
+- **Data Structures & Algorithms in Python** -*Michael T. Goodrich*s
 
 
 **EASY QUESTIONS**
