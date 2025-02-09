@@ -1,4 +1,4 @@
-# **CODING PREPARATION**
+s# **CODING PREPARATION**
 
 
 ![Image](Assets/code.jpg)
