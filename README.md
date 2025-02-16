@@ -15,6 +15,7 @@
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
 | 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | |
+| 1. [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | ✅ | |
 | 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅ | |
 | 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ ||
 | 4. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | ✅ | |
