@@ -14,8 +14,8 @@
 | 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅✅ | |
 | 1. [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | ✅✅ | |
 | 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅ | |
-| 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ ||
-| 4. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | ✅ | |
+| 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅✅ ||
+| 4. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | ✅✅ | |
 | 5. [Reverse String](https://leetcode.com/problems/reverse-string/) | ✅ | |
 | 6. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ✅ | |
 | 7. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅| |
