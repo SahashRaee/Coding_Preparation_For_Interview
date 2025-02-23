@@ -18,7 +18,7 @@
 | 4. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | ✅✅ | |
 | 5. [Reverse String](https://leetcode.com/problems/reverse-string/) | ✅ | |
 | 6. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ✅✅ | |
-| 7. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅| |
+| 7. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅✅| |
 | 8. [Revising Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | ✅ | |
 | 9. [Revising Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | ✅ ||
 | 10. [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | ✅| |
