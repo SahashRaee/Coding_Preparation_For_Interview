@@ -24,7 +24,7 @@
 | 10. [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | ✅| |
 | 11. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | ✅ ||
 | 12. [Sqrt](https://leetcode.com/problems/sqrtx/) | ✅✅ | |
-| 13. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | ✅ | |
+| 13. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | ✅✅ | |
 | 14. [Majority Element](https://leetcode.com/problems/majority-element/submissions/) | ✅ | |
 | 15. [First Unique Character in String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/) | ✅ | |
 | 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) | ✅ | |
